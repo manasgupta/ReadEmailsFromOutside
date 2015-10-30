@@ -24,6 +24,10 @@ import microsoft.exchange.webservices.data.search.FolderView;
 import microsoft.exchange.webservices.data.search.ItemView;
 import microsoft.exchange.webservices.data.search.filter.SearchFilter;
 
+/*
+ * @author Manas Gupta
+ * @since 21 Oct, 2015
+ */
 public class EWSAttachmentToDisk {
 
 	public static void main(String[] args) throws Exception {

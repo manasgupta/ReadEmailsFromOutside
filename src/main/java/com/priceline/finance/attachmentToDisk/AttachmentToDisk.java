@@ -13,6 +13,10 @@ import javax.mail.Session;
 import javax.mail.Store;
 import javax.mail.internet.MimeBodyPart;
 
+/*
+ * @author Manas Gupta
+ * @since 21 Oct, 2015
+ */
 public class AttachmentToDisk {
 
 	private static String attachmentsDirectoryPath = "C:\\Attachments\\";
